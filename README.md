@@ -1,16 +1,27 @@
-## Hi there 👋
+🌟 Hi there, I'm Riyyan Qazi!
 
-<!--
-**riyyanqazii/riyyanqazii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👋 Welcome to my GitHub profile!
+I'm a Frontend Developer passionate about creating clean, responsive, and user-friendly web interfaces.
+Currently learning and improving my skills through the Saylani Web Development Course.
 
-Here are some ideas to get you started:
+🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 I’m currently learning HTML, CSS, Bootstrap, and JavaScript
+
+💡 I love designing simple, modern, and responsive web layouts
+
+💻 Building small projects to strengthen my coding skills
+
+🎯 Goal: Become a skilled Frontend Developer and move towards React.js
+
+🛠️ Tech Stack
+
+💻 Languages & Tools:
+HTML | CSS | Bootstrap | JavaScript | Git | GitHub
+
+📫 Connect With Me
+
+📧 Email: riyyanqazii@gmail.com
+🌐 Portfolio: coming soon...
+
+✨ “Code. Learn. Grow.” ✨
